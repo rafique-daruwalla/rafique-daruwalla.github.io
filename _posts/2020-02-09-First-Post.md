@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rafique Daruwalla Blogs Overview"
+title: "Blogs Overview"
 date: 2020-02-09
 ---
 
