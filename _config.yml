@@ -6,9 +6,3 @@ description: >-
   I've come across recently. This includes items like new technology, business or management principles, productivity tips and so on.
   I plan to summarize this in two to five sentences or bullet points for easy reference - for myself and anyone else out there on the
   World Wide Web. 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-158181081-1      # Required - replace with your tracking id
-    anonymizeIp: true       # Optional - Default: false - set to true for anonymized tracking
-plugins:
-  - jekyll-analytics
